@@ -65,8 +65,5 @@ Original Paper: Qin, J., Zhang, J., Jiang, J., ... & Pei, X. (2022). Direct chem
 Assignment: Fall 2025 - Assignment 1.
 
 ## 👤 Author
-Name: [Chen Xuanzhi]
-
-ID: [2300012257]
-
-Contact: [2300012257@stu.pku.edu.cn]
+Name: Chen Xuanzhi
+Contact: 2300012257@stu.pku.edu.cn

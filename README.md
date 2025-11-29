@@ -47,6 +47,8 @@ gseapy (for GO Enrichment)
 
 matplotlib & seaborn
 
+```
+
 📊 Key Results Reproduction
 1. Batch Correction & Clustering
 We successfully integrated datasets from four distinct timepoints. The UMAP visualization demonstrates the transition from early erythroblasts to late-stage induced megakaryocytes.
@@ -56,8 +58,6 @@ Key transcription factors essential for MK differentiation (FLI1, MEIS1) were vi
 
 3. Trajectory Analysis
 Using diffusion pseudotime (DPT), we inferred the developmental trajectory, revealing a continuous progression from Day 0 progenitors to Day 7 mature-like iMKs.
-
-```
 
 📄 Reference
 Original Paper: Qin, J., Zhang, J., Jiang, J., ... & Pei, X. (2022). Direct chemical reprogramming of human cord blood erythroblasts to induced megakaryocytes that produce platelets. Cell Stem Cell, 29(8), 1229-1245. Link

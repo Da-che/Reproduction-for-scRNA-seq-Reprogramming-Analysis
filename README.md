@@ -34,6 +34,7 @@ To reproduce the environment:
 conda create -n scRNA_env python=3.11
 conda activate scRNA_env
 pip install -r requirements.txt
+```
 
 Key Libraries:
 
@@ -47,7 +48,6 @@ gseapy (for GO Enrichment)
 
 matplotlib & seaborn
 
-```
 
 ## 📊 Key Results Reproduction
 1. Batch Correction & Clustering
